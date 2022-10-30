@@ -13,20 +13,20 @@ String dalam bahasa pemrograman Python disebut sebagai kumpulan karakter yang di
 ## Latihan 2
 - Variable merupakan tempat menyimpan data yang bersifat mutable, artinya nilainya dapat berubah-ubah.
 Berikut contoh penggunaan variable pada python.
-![img 3](screenshout/3.png)
+![img 3](https://github.com/kholidwahyudi/latihan3/blob/main/screenshout%20bahan%203/3.png?raw=true)
 - Setelah kita masukkan sintax-sintax kemudian kita running, dan kita masukkan nilai yang akan kita konversikan. Berikut contohnya
-![img 4](screenshout/4.png)
+![img 4](https://github.com/kholidwahyudi/latihan3/blob/main/screenshout%20bahan%203/4.png?raw=true)
 ## Latihan 3
 - Cara membuat program menggunkan string formatting untuk menghasilkan output seperti gambar dibawah.
-![img 5](screenshout/GAMBAR 3.jpg)
+![img 5](https://github.com/kholidwahyudi/latihan3/blob/main/screenshout%20bahan%203/GAMBAR%203.jpg?raw=true)
 - Tuliskan sintax seperti gambar dibawah ini :
-![img 6](screenshout/5.png)
+![img 6](https://github.com/kholidwahyudi/latihan3/blob/main/screenshout%20bahan%203/5.png?raw=true)
 - Untuk menghasilkan output seperti contoh gambar diatas kita buat format susunan nilai seperti gambar diatas. Kemudian kita running,berikut hasilnya :
-![img 7](screenshout/6.png)
+![img 7](https://github.com/kholidwahyudi/latihan3/blob/main/screenshout%20bahan%203/6.png?raw=true)
 ## Program menghitung luas dan keliling lingkaran menggunakan python
 - Sebelumnya kita masuk ke python
 - Kemudian new project (ctrl+N)
-![img 8](screenshout/new project.png)
+![img 8](https://github.com/kholidwahyudi/latihan3/blob/main/screenshout%20bahan%203/new%20project.png?raw=true)
 - Tuliskan sintax rumus luas lingkaran dan keliling lingkaran
 r=input(“Masukkan jari-jari lingkaran : ”)
 pi=3.14
@@ -34,14 +34,14 @@ l=pi * int(r) * int(r)
 k=2 * pi * int(r)
 print(“Luas Lingkaran		:”,l)
 print(“Keliling Lingkaran	:”,k)
-![img 9](screenshout/7.png)
+![img 9](https://github.com/kholidwahyudi/latihan3/blob/main/screenshout%20bahan%203/7.png?raw=true)
 - kemudian kita running dan masukkan nilai yang akan kita operasikan.
 Berikut hasil runningnya
-![img 10](screenshout/8.png)
+![img 10](https://github.com/kholidwahyudi/latihan3/blob/main/screenshout%20bahan%203/8.png?raw=true)
 ## Flowchart program menghitung luas lingkaran 
 - Disini saya menggunakan aplikasi Flowgorithm
 - Sebelum kita membuat algoritma, flowchart dan contoh program untuk menghitung luas lingkaran dan keliling kingkaran, kalian harus tau terlebih dahulu rumus luas dan keliling lingkaran.
-![img 11](screensout/rumus_luas_keliling_lingkaran.jpg)
+![img 11](https://github.com/kholidwahyudi/latihan3/blob/main/screenshout%20bahan%203/rumus_luas_keliling_lingkaran.jpg?raw=true)
 - Setelah kita tau tentang rumus untuk mencari luas dan keliling lingkaran, baru kita bisa lanjutkan untuk memberikan Algoritmanya. Adapun Algoritma Menghitung Luas dan Keliling Lingkaran sebagai berikut:
 Mulai
 1.	Deklarasi variabel jari-jari (r), Luas (L) dan Keliling (K)
@@ -52,6 +52,6 @@ Mulai
 6.	Tampilkan Keliling (K) Lingkaran
 7.	Selesai
 selanjutnya dapat dibuat flowchart. Flowchart untuk menghitung luas lingkaran dan keliling lingkaran dapat digambarkan sebagai berikut:
-![img 12](screenshout/flowchart lingkaran.png)
+![img 12](https://github.com/kholidwahyudi/latihan3/blob/main/screenshout%20bahan%203/flowchart%20lingkarang.png?raw=true)
 - berikut praktikum 3 yang dapat saya buat
 - TERIMA KASIH
