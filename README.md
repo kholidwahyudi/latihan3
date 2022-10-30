@@ -4,12 +4,12 @@
 ## Latihan 1
 - Penggunaan end, separator, dan string format pada Python
 Contoh program ada dibawah ini.
-![img 1](screenshout/1.png)
+![img 1](https://github.com/kholidwahyudi/latihan3/blob/main/screenshout%20bahan%203/1.png?raw=true)
 - Parameter end berfungsi untuk mengganti karakter terakhir bawaan yang dicetak di layar. Jadi secara bawaan, setiap kali kita memanggil fungsi print() untuk mencetak sesuatu, python akan mencetak karakter ganti baris () di setiap output.
 Sedangkan parameter sep adalah pemisah (separator) yang berfungsi sebagai tanda pemisah antar objek yang dicetak.
 String dalam bahasa pemrograman Python disebut sebagai kumpulan karakter yang dikelilingi oleh tanda kutip tunggal, tanda kutip ganda bahkan tanda kutip tiga. Komputer tidak memahami karakter. Secara internal, tipe string ini menyimpan karakter yang dimanipulasi sebagai kombinasi dari 0 dan 1. Fungsi format untuk melakukan pengaturan format string yang akan dicetak.
 - berikut hasil runningnya :
-![img 2](screenshout/2.png)
+![img 2](https://github.com/kholidwahyudi/latihan3/blob/main/screenshout%20bahan%203/2.png?raw=true)
 ## Latihan 2
 - Variable merupakan tempat menyimpan data yang bersifat mutable, artinya nilainya dapat berubah-ubah.
 Berikut contoh penggunaan variable pada python.
